@@ -1,0 +1,168 @@
+ALGORITMOS:
+
+
+Escribe un algoritmo para hacer una torta:
+
+
+
+Correr mi asiento hacia atrás.
+Pararse
+Abrir la puerta
+Salir
+Bajar las escaleras
+Dirigirse a la cocina.
+Abrir el gabinete y sacar 3 huevos, azúcar, leche, harina, aceite.
+Poner los ingredientes sobre la mesa.
+Tomar un recipiente para agregar todos los ingredientes que vamos a usar y ponerlo sobre la mesa.
+Romper cada huevo y depositarlos sobre el recipiente cuidando de que no caigan cascaras.
+Abrir la bolsa del azúcar y con una taza sacar 1 taza de azúcar y depositar en el recipiente.
+Destapar el frasco del aceite y vertir 2 cucharadas al recipiente.
+Tomar un tenedor por el mango y revolver en el recipiente los ingredientes hasta que quede un tono claro.
+Abrir la bolsa de la harina y con una taza  sacar 3/4 tazas (220 g) de harina y depositar en el recipiente.
+Abrir la bolsa de la leche, servir 1 taza y depositarla en el recipiente.
+Tomar nuevamente el tenedor y revolver en círculos hasta observar que todos los ingredientes estén bien mezclados y que quede una masa consistente.
+Dirigirse al horno
+Encienda el horno y precaliente el horno a 180 grados.
+Tomar un recipiente de metal o el molde de tortas.
+Aplicar un poco de aceite.
+Depositar la mezcla en el recipiente de metal.
+Abrir la puerta del horno e ingresar el recipiente.
+Cerrar la puerta del horno.
+Hornear por 45 minutos.
+Abrir la puerta del horno.
+Inserte un cuchillo en la mitad de la torta.
+Verificar și el cuchillo sale limpio lo cual indicara que la torta esta lista.
+Apagar el horno.
+Ponerse guantes de cocina,
+Abrir la puerta del horno
+Sacar la torta del horno 
+Dejar enfriar la torta por 1 hora.
+Comer la porciòn de torta que desee.
+
+
+
+
+Escribe un algoritmo para lavarse la cara:
+
+
+
+Correr mi asiento hacia atrás.
+Pararse
+Abrir la puerta
+Salir
+Dirigirse al baño.
+Abrir la puerta.
+Recogerse el cabello.
+Tomar el limpiador facial
+Presionar.
+Aplicar una pequeña cantidad de limpiador facial sobre la palma de las manos.
+Aplicar el limpiador sobre el rostro, esparciéndolo muy bien con las dos manos.
+Abrir la llave del lavamanos
+Lavar muy bien el rostro retirando el limpiador.
+Secar muy bien el rostro con la toalla.
+
+
+
+
+Escribe un algoritmo para abrir la nevera
+
+
+
+Correr mi asiento hacia atrás.
+Pararse
+Abrir la puerta
+Salir
+Bajar al primer piso
+Dirigirse a la cocina.
+Ubicarse frente a la nevera
+Con la mano derecha halar la manija de la nevera
+Abrir la puerta hasta donde desee.
+Luego ciérrela nuevamente.
+
+
+
+
+
+
+Escribe un algoritmo para HACER UN SANWICH de atun:
+
+
+
+Correr mi asiento hacia atrás.
+Pararse
+Abrir la puerta
+Salir
+Bajar al primer piso
+Dirigirse a la cocina.
+Sacar del gabinete la bolsa de pan tajado y 1 lata de atún.
+Colocar los ingredientes sobre el mesòn de la cocina.
+Abrir la bolsa del pan.
+Sacar dos tajadas de pan.
+Cerrar la bolsa de pan.
+Abrir la lata de atún.
+Tomar un cuchara por el mango.
+Sacar la cantidad deseada de atún con la cuchara.
+Esparcir el atún que esta en la cuchara sobre una de las tajadas de pan.
+Luego poner la tapa de pan restante sobre la que tiene atùn.
+Comer el sandwich
+
+
+
+
+Escribe un algoritmo para ir a la tienda mas cercana de tu casa:
+
+
+
+Correr mi asiento hacia atrás.
+Pararse
+Abrir la puerta
+Salir
+Bajar al primer piso
+Tomar las llaves de la puerta que están sobre la mesa.
+Abrir la puerta de la casa.
+Salir y cerrarla.
+Abrir la reja siguiente
+Salir y cerrarla.
+Abrir la ultima reja.
+Salir y cerrar con llave.
+Dirigirse a mano izquierda.
+Caminar hasta llegar a la esquina.
+Cruzar a la izquierda.
+Caminar hasta donde esta el aviso de rapitienda.
+Comprar lo que desee en la tienda.
+
+
+
+
+Profe vivo en Cali, así que voy a escribir el algoritmo para ir a mi trabajo:
+
+
+
+Correr mi asiento hacia atrás.
+Pararse
+Abrir la puerta
+Salir
+Bajar al primer piso
+Tomar las llaves del carro.
+Tomar el bolso y verificar que este los papeles del carro (soat, tecno, licencia)
+Dirigirse a la puerta de la casa
+Abrir la puerta de la casa.
+Salir y cerrarla.
+Abrir las dos puerta de la reja y dejarlas totalmente abiertas.
+Abrir la ultima reja, deslizando hacia la izquierda y dejarla abierta.
+Dirigirse al carro.
+Abrir la puerta del conductor.
+Ingresar y cerrar la puerta.
+Encender el carro,
+Poner reversa y acelerando cuidadosamente.
+Dejar el carro afuéra en la bahía.
+Apagar el carro.
+Sacar las llaves del carro.
+Abrir la puerta del conductor, salir y cerrar.
+Cerrar cada reja y poner seguro en cada uno.
+Ingresar al carro nuevamente
+Tomar el celular, abrir la app de Waze
+Colocar la dirección de la empresa en Waze e iniciar.
+Enceder el carro y arrancar.
+Al llegar al destino, apagar el carro, abrir la puerta, bajarse y cerrar con seguro y alarma.
+Ingresar a la empresa.
